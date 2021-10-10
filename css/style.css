@@ -165,3 +165,14 @@ form button:hover {
     padding: 8px;
     border-radius: 4px;
 }
+.save {
+    background-color: orange;
+    padding: 8px;
+    transition: 1s;
+    border-radius: 4px;
+}
+.save:hover {
+    background-color:silver;
+    padding: 8px;
+    border-radius: 4px;
+}
